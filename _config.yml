@@ -41,30 +41,30 @@ remote_theme: kalanicraig/community-archive-jekyll@0.1.0
 #---------------------
 
 # Title of your website
-title: "IDAH@IU"
+title: "al-Samāʾ"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An Archive of Our Community's Heirlooms"
+subtitle: "Celestial Natural Philosophy in the Medieval Near East"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archiving Site"
+description: "Here we discuss fudametals of celestial natural philosophy in the 10th and 11th centuries C.E."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "IDAH@IU"
-authorname : "Institute for Digital Arts and Humanities"
+author: "pshahidi@IU"
+authorname : "Pouyan Shahidi"
 sitelogo: "site_logo.jpg"
 
 # What year did you start up this community project?
 sitedate : 2022
 
 # Other community social media. Leave blank if you don't have these.
-email : "idah [at] iu.edu"
+email : "pshahidi [at] iu.edu"
 website : "https://idah.indiana.edu/"
-twitter : "IDAH_IU"
-github : "idahatiu"
-facebook : "idahatiu"
-instagram : 
+twitter : "PouyanShahidi"
+github : "pouyan-s"
+facebook : "pouyan.shahidi"
+instagram : "pouyan_shahidi"
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
@@ -92,9 +92,9 @@ fontchoice: slab # A funky slab font with clean sans-serif accents
 
 #colorchoice: navy # Navy with bright teal and grey
 #colorchoice: leafgreen # Leafy green and medium brown
-#colorchoice: tan # Tan and deep brown with flame-bright orange
+colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
-colorchoice: marigold # Near-black with marigold yellow
+#colorchoice: marigold # Near-black with marigold yellow
 #colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green

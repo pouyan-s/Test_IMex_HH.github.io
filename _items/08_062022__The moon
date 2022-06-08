@@ -1,17 +1,17 @@
 layout: item
-format: photo
-title: The moon
+format: video
+title: Star-ponter
 author: "Pouyan"
 contributor:
 group: 
 creator: "Pouyan"
 externalurl: 
 embedurl: 
-creationdate: "May 2021"
-type: "Celestial body"
-shortdesc: "The sattelite of the Earth."
+creationdate: "June 2022"
+type: "Astronomical Instrument"
+shortdesc: "This is a part of the rete of an astrolabe that represents a fixed star."
 contributorquote: 
-categories: [ Natural, Celestial ]
-tags: [ Natural, Celestial ]
+categories: [ Artifacts, Astronomy ]
+tags: [ Artifacts, Astronomy ]
 teammember:
 ---

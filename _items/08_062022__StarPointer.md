@@ -1,5 +1,5 @@
 layout: item
-format: photo
+format: media
 title: Star-ponter
 author: "Pouyan"
 contributor:

@@ -1,7 +1,7 @@
 ---
 layout: item
 format: media
-title: "Star-ponter"
+title: "Star-pointer"
 author: "Pouyan"
 contributor:
 group: 
